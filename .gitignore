@@ -11,6 +11,7 @@ backend/*.sqlite3
 # Node
 frontend/node_modules/
 frontend/dist/
+frontend/.env.production
 
 # Environment variables
 .env
